@@ -11,7 +11,7 @@ function App() {
         <div className='header'>
           <div className='width-container'>
             <div>
-              <ul class="contact-info">
+              <ul className="contact-info">
                 <li>+91 9910233016</li>
                 <li>yourmanish123@gmail.com</li>
                 <li><a href="https://www.linkedin.com/in/manish-kumar-50259029/"><img src={`${process.env.PUBLIC_URL}/images/linkedin.png`} /></a></li>
@@ -34,7 +34,7 @@ function App() {
               <div className="project-item-flex">
                 <div className="project-name"><a href="https://manishnagar.github.io/weather_update/">Weather App</a></div>
                 <div className="project-name"><a href="https://manishnagar.github.io/react-movie-search-app/">Movie Search App</a></div>
-                <div className="project-name"><a href="https://manishnagar.github.io/ssy-calculator/">Sukanya Calculator</a></div>
+                <div className="project-name"><a href="https://manishnagar.github.io/ssy-calculator/">Sukanya Calculator App</a></div>
               </div>
               <div className="project-item-flex">
                 <div className="project-name"><a href="https://manish-kumar-profile.netlify.app/">Portfolio App</a></div>
@@ -81,7 +81,7 @@ function App() {
 
               <div className="project-item-flex">
                 <div className="project-name"><a href="https://manish-kumar-profile.netlify.app/">Portfolio App</a></div>
-                <div className="project-name"><a href="">SSY Calculator App</a></div>
+                <div className="project-name"><a href="https://manishnagar.github.io/ssy-calculator/">SSY Calculator App</a></div>
               </div>
 
               <div className="heading">Front-End Projetcs</div>

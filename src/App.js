@@ -69,6 +69,13 @@ function App() {
               <div className="project-item-flex">
                 <div className="project-name"><a href="https://www.rupaybachao.com/index.html">Rupay Bachao</a></div>
               </div>
+
+              <div className="heading">Template Design</div>
+              <div className="project-item-flex">
+                <div className="project-name"><a href="https://manishnagar.github.io/wizfair-template/landing-page.html">Wizfare  Dummy</a></div>
+                <div className="project-name"><a href="https://manishnagar.github.io/webority/">Webority Dummy</a></div>
+                <div className="project-name"><a href="https://manishnagar.github.io/script_template/">Script Dummy</a></div>
+              </div>
             </div>
 
             {/* mobile view */}
@@ -120,6 +127,17 @@ function App() {
                 <div className="project-name"><a href="https://www.rupaybachao.com/index.html">Rupay Bachao</a></div>
 
               </div>
+
+
+              <div className="heading">Template Design</div>
+              <div className="project-item-flex">
+                <div className="project-name"><a href="https://manishnagar.github.io/wizfair-template/landing-page.html">Wizfare  Dummy</a></div>
+                <div className="project-name"><a href="https://manishnagar.github.io/webority/">Webority Dummy </a></div>
+                </div>
+                <div className="project-item-flex">
+                <div className="project-name"><a href="https://manishnagar.github.io/script_template/">Script Dummy</a></div>
+              </div>
+
             </div>
           </div>
         </div>

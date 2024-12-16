@@ -74,11 +74,14 @@ function App() {
               <div className="project-item-flex">
                 <div className="project-name"><a href="https://manishnagar.github.io/wizfair-template/landing-page.html">Wizfare  Dummy</a></div>
                 <div className="project-name"><a href="https://manishnagar.github.io/webority/">Webority Dummy</a></div>
-                <div className="project-name"><a href="https://manishnagar.github.io/script_template/">Script Dummy</a></div>
+                <div className="project-name"><a href="https://manishnagar.github.io/novis/">Novis</a></div>
               </div>
               <div className="project-item-flex">
                 <div className="project-name"><a href="https://manishnagar.github.io/Intelgencia/">Intelegencia</a></div>
+                <div className="project-name"><a href="https://manishnagar.github.io/script_template/">Script Dummy</a></div>
+                <div className="project-name"></div>
               </div>
+              
             </div>
 
             {/* mobile view */}
@@ -138,8 +141,11 @@ function App() {
                 <div className="project-name"><a href="https://manishnagar.github.io/webority/">Webority Dummy </a></div>
                 </div>
                 <div className="project-item-flex">
-                <div className="project-name"><a href="https://manishnagar.github.io/script_template/">Script Dummy</a></div>
+                <div className="project-name"><a href="https://manishnagar.github.io/novis/">Novis</a></div>
                 <div className="project-name"><a href="https://manishnagar.github.io/Intelgencia/">Intelegencia</a></div>
+              </div>
+              <div className="project-item-flex">
+              <div className="project-name"><a href="https://manishnagar.github.io/script_template/">Script Dummy</a></div>
               </div>
 
             </div>

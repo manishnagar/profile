@@ -39,8 +39,10 @@ function App() {
               </div>
               <div className="project-item-flex">
                 <div className="project-name"><a href="https://manish-kumar-profile.netlify.app/">Portfolio App</a></div>
-
+                <div className="project-name"><a href="https://manishnagar.github.io/bill-expense-tracker/">Bill-expense Tracker</a></div>
+                <div className="project-name"></div>
               </div>
+           
 
               <div className="heading">Front-End Projetcs</div>
               <div className="project-item-flex">
@@ -96,6 +98,10 @@ function App() {
               <div className="project-item-flex">
                 <div className="project-name"><a href="https://manish-kumar-profile.netlify.app/">Portfolio App</a></div>
                 <div className="project-name"><a href="https://manishnagar.github.io/ssy-calculator/">SSY Calculator App</a></div>
+              </div>
+
+              <div className="project-item-flex">
+              <div className="project-name"><a href="https://manishnagar.github.io/bill-expense-tracker/">Bill-expense Tracker</a></div>
               </div>
 
               <div className="heading">Front-End Projetcs</div>

@@ -28,7 +28,8 @@ function App() {
               <div className="profile-heading">Front-End Developer | Pioneering The Modern UI Technologies</div>
             </div>
             <div className="name">Manish Kumar</div>
-            <div className="profile-desc">Hi, I am Manish Kumar UI/Front-End Developer. In my over 5 years of Development carrer, I have worked on 100+ Web Development Projects including Admin Dashboard, Web Applications, and Websites. Here are some list of projects where i have worked. Maybe some domain has been expired of freelance projects.  </div>
+            <div className="profile-desc">Hi, I’m <b>Manish Kumar</b>, a dedicated <b>UI/Front-End Developer</b> with over 5 years of experience delivering high-quality, user-centric web solutions. Throughout my career, I have successfully completed 100+ web development projects, encompassing Admin Dashboards, Web Applications, and E-commerce Websites. My expertise lies in creating intuitive, responsive, and visually appealing interfaces that enhance user experience and align with modern web standards. </div>
+            <div className="profile-desc">I have collaborated on diverse projects for startups, enterprises, and freelance clients, leveraging cutting-edge front-end technologies and frameworks like <b>ReactJS</b>, <b>HTML5</b>, <b>CSS3</b>, <b>JavaScript</b>, <b>AngularJs</b>, <b>Tailwind CSS</b> and <b>Figma, Photoshop.</b> Some of the domains I have contributed to may no longer be active, reflecting the dynamic nature of freelance projects.</div>
             <div className="project-sec desktop">
               <div className="heading">React Js Projetcs</div>
               <div className="project-item-flex">

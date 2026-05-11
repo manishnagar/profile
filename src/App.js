@@ -65,14 +65,14 @@ function App() {
               </div>
 
               <div className="project-item-flex">
-                <div className="project-name"><a href="https://rocaresolution.com/">ROCare Solution</a></div>
+                <div className="project-name"><a href="http://goelectricindia.in/">Go Electric India</a></div>
                 <div className="project-name"><a href="https://spidcindia.com/">SPIDC India</a></div>
                 <div className="project-name"><a href="https://www.mithilainfrastructure.com/#">Mithila Infrastructure</a></div>
               </div>
               <div className="project-item-flex">
                 <div className="project-name"><a href="https://www.rupaybachao.com/index.html">Rupay Bachao</a></div>
                <div className="project-name"><a href="https://www.kayron.co/index.php">Kayron Technology</a></div>
-                              <div className="project-name"></div>
+                              <div className="project-name"><a href="https://svyks.in/">Swami Vivekanand Yuva Kaushal Setu</a></div>
               </div>
 
               <div className="heading">Template Design</div>
@@ -129,7 +129,7 @@ function App() {
               </div>
               <div className="project-item-flex">
                 <div className="project-name"><a href="https://detoxa-frontend.netlify.app/">Detoxa</a></div>
-                <div className="project-name"><a href="https://rocaresolution.com/">ROCare Solution</a></div>
+                  <div className="project-name"><a href="http://goelectricindia.in/">Go Electric India</a></div>
               </div>
 
               <div className="project-item-flex">
@@ -137,10 +137,14 @@ function App() {
                 <div className="project-name"><a href="https://spidcindia.com/">SPIDC India</a></div>
                 <div className="project-name"><a href="https://www.mithilainfrastructure.com/#">Mithila Infrastructure</a></div>
               </div>
-
               <div className="project-item-flex">
                 <div className="project-name"><a href="https://www.rupaybachao.com/index.html">Rupay Bachao</a></div>
                 <div className="project-name"><a href="https://www.kayron.co/index.php">Kayron Technology</a></div>
+                
+              </div>
+              <div className="project-item-flex">
+            <div className="project-name"><a href="https://svyks.in/">Swami Vivekanand Yuva Kaushal Setu</a></div>
+               
               </div>
 
 
